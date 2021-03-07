@@ -1,2 +1,2 @@
-# AlJbra
-An algebra library for Java
+# Jam (Java Advanced Math)
+An advanced math library for Java.
