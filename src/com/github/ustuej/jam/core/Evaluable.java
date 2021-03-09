@@ -1,4 +1,4 @@
-package com.github.ustuej.aljbra.core;
+package com.github.ustuej.jam.core;
 
 public interface Evaluable {
 	
